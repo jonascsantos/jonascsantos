@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hello, I'm Jonas. I'm a FullStack developer](https://github.com/jonascsantos/jonascsantos/raw/master/header.gif)
+![Hello, I'm Jonas. I'm a FullStack developer](https://github.com/jonascsantos/jonascsantos/blob/main/header.gif)
 
 <!--
 **jonascsantos/jonascsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
