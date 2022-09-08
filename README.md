@@ -21,6 +21,6 @@
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="Github" width="50" height="50"/>
 <img  src="https://raw.githubusercontent.com/jonascsantos/jonascsantos/main/assets/Cloudflare.png" alt="Cloudflare" width="90" style="margin:0 auto; display:block;"/>
 <img  src="https://raw.githubusercontent.com/jonascsantos/jonascsantos/main/assets/Prismic.png" alt="Prismic" width="90"/>
-<img  src="https://raw.githubusercontent.com/jonascsantos/jonascsantos/main/assets/Google_Analytics.svg" alt="Google Analytics" width="100"/>
-<img  src="https://raw.githubusercontent.com/jonascsantos/jonascsantos/main/assets/Google_Tag_Manager.png" alt="Google Tag Manager" width="100" style="margin:0 auto; display:block;"/>
-<img  src="https://raw.githubusercontent.com/jonascsantos/jonascsantos/main/assets/Google_Optimize.png" alt="Google Optimize" width="100" style="margin:0 auto; display:block;"/>
+<img  src="https://raw.githubusercontent.com/jonascsantos/jonascsantos/main/assets/Google_Analytics.svg" alt="Google Analytics"  width="90"/>
+<img  src="https://raw.githubusercontent.com/jonascsantos/jonascsantos/main/assets/Google_Tag_Manager.png" alt="Google Tag Manager" width="100"/>
+<img  src="https://raw.githubusercontent.com/jonascsantos/jonascsantos/main/assets/Google_Optimize.png" alt="Google Optimize"   width="90"/>
