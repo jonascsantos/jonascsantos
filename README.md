@@ -1,4 +1,4 @@
-### Hello 👋
+## Hello 👋
 ![Hello, I'm Jonas. I'm a FullStack developer](https://raw.githubusercontent.com/jonascsantos/jonascsantos/main/header.gif)
 
 
