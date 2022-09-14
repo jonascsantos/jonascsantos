@@ -1,8 +1,12 @@
-## Hello 👋
+## 👋 Hello 
 ![Hello, I'm Jonas. I'm a FullStack developer](https://raw.githubusercontent.com/jonascsantos/jonascsantos/main/header.gif)
 
+## 👨‍💻 Whoami
 
-## 🧰   My toolbox
+I’m a resourceful Fullstack developer based in Budapest, Hungary, with over three years of experience, possessing knowledge of the software development lifecycle and the necessary skills to implement and deploy highly available applications. Currently, I am challenging myself as a DevOps Engineer. 
+
+
+## 🧰 My toolbox
 
 <table>
     <tr>
