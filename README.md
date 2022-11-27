@@ -37,7 +37,7 @@ I’m a resourceful Fullstack developer based in Budapest, Hungary, with over th
         </td>
         <td align="center">
             <a href="https://jonascsantos.com">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width="70px" />
+                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="80px"/>
             </a>
         </td>
         <td align="center">
@@ -89,7 +89,7 @@ I’m a resourceful Fullstack developer based in Budapest, Hungary, with over th
         </td>
         <td align="center">
             <a href="https://jonascsantos.com">
-                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" alt="Github" width="50" height="50"/>
+                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" alt="Microsoft Azure" width="50" height="50"/>
             </a>
         </td>
     </tr>
