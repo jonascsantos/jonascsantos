@@ -64,22 +64,22 @@ I’m a resourceful Fullstack developer based in Budapest, Hungary, with over th
         </td>
         <td align="center">
             <a href="https://jonascsantos.com">
-                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
+                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" alt="NexxtJS" width="50" height="50"/>
             </a>
         </td>
         <td align="center">
             <a href="https://jonascsantos.com">
-                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />
+                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg" alt="DotNet Core" width="50" height="50" />
             </a>
         </td>
         <td align="center">
             <a href="https://jonascsantos.com">
-                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/>
+                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
             </a>
         </td>
         <td align="center">
             <a href="https://jonascsantos.com">
-                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="Ruby" width="50" height="50"/>
             </a>
         </td>
         <td align="center">
@@ -107,6 +107,26 @@ I’m a resourceful Fullstack developer based in Budapest, Hungary, with over th
         <td align="center">
             <a href="https://jonascsantos.com">
                 <img  src="https://raw.githubusercontent.com/jonascsantos/jonascsantos/main/assets/Cloudflare.png" alt="Cloudflare" width="100"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://jonascsantos.com">
+                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://jonascsantos.com">
+                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />
+            </a>
+        </td>
+         <td align="center">
+            <a href="https://jonascsantos.com">
+                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://jonascsantos.com">
+                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
             </a>
         </td>
     </tr>
