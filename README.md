@@ -12,7 +12,7 @@ I’m a resourceful Fullstack developer based in Budapest, Hungary, with over th
     <tr>
         <td align="center">
             <a href="https://jonascsantos.com">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="80px" />
+                <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width="80px" />
             </a>
         </td>
         <td align="center">
@@ -27,17 +27,17 @@ I’m a resourceful Fullstack developer based in Budapest, Hungary, with over th
         </td>
         <td align="center">
             <a href="https://jonascsantos.com">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" width="80px" />
+                <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dotnetcore/dotnetcore-plain.svg" width="80px" />
             </a>
         </td>
         <td align="center">
             <a href="https://jonascsantos.com">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width="80px" />
+                <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="80px" />
             </a>
         </td>
         <td align="center">
             <a href="https://jonascsantos.com">
-                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="80px"/>
+                <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Python" width="80px"/>
             </a>
         </td>
         <td align="center">
