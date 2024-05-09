@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Whoami
 
-I’m a resourceful Fullstack developer based in Budapest, Hungary, with over three years of experience, possessing knowledge of the software development lifecycle and the necessary skills to implement and deploy highly available applications. Currently, I am challenging myself as a DevOps Engineer. 
+I am a resourceful Full Stack developer from Brazil residing in Budapest, Hungary with 4+ years of experience. I thoroughly understand the software development process and possess the technical proficiency to design, implement, and deploy highly scalable applications. 
 
 
 ## 🧰 My toolbox
