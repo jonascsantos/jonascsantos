@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Whoami
 
-I am a resourceful Full Stack developer from Brazil residing in Budapest, Hungary with 4+ years of experience. I thoroughly understand the software development process and possess the technical proficiency to design, implement, and deploy highly scalable applications. 
+I am a resourceful Full Stack developer from Brazil residing in Budapest, Hungary with 6+ years of experience. I thoroughly understand the software development process and possess the technical proficiency to design, implement, and deploy highly scalable applications. 
 
 
 ## 🧰 My toolbox
